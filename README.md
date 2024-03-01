@@ -28,3 +28,4 @@ This showcase project is a testament to my expertise in API testing, highlightin
 
 Feel free to explore the project, review the test cases, and reach out if you have any questions or feedback. Thank you for considering my API testing showcase project!
 
+![image](https://github.com/RobertBeraru/Trello-API-Postman-/assets/147431038/d69ffea3-2d03-4763-8d53-eae6801a00da)
