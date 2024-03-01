@@ -10,7 +10,9 @@ Welcome to my API testing showcase project! This project serves as a demonstrati
 
 - **Test Execution Schedule:** To streamline the testing process, I have organized a test execution schedule based on the priority of API functionalities. This prioritization ensures that critical features are rigorously tested first, allowing for a more efficient testing process.
 
-- **CRUD Methodology:** As part of this showcase, I have implemented a test case following the CRUD (Create, Read, Update, Delete) methodology. This structured approach provides a comprehensive validation of the API's capabilities across different entities.
+- **CRUD Methodology:** As part of this showcase, I have implemented a test case following the CRUD (Create, Read, Update, Delete) methodology. This structured approach is further categorized into four sections, aligning with the dependencies and priority of API functionalities.
+
+![image](https://github.com/RobertBeraru/Trello-API-Postman-/assets/147431038/b8019dfb-62c3-4e7e-8ab3-fb5336eb39c5)
 
 # Project Structure
 The project is structured as follows:
@@ -25,3 +27,4 @@ The project is structured as follows:
 This showcase project is a testament to my expertise in API testing, highlighting the depth and breadth of my skills. I believe in delivering high-quality results through meticulous testing processes and effective documentation.
 
 Feel free to explore the project, review the test cases, and reach out if you have any questions or feedback. Thank you for considering my API testing showcase project!
+
